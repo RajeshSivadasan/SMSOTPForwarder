@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rajesh\'s SMS OTP Forwarder</string>
+    <string name="btn_Caption">Read SMS</string>
+    <string name="txt_Msg">Enter Message</string>
+    <string name="btnStartCaption">Start Listener</string>
+    <string name="otpText">OTP1 value is</string>
+</resources>
